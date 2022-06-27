@@ -1,0 +1,4 @@
+﻿  cajero.cpp
+C:\Users\danie\OneDrive\Escritorio\IDDS\Desarrollo de Logica de Programación\Proyectos C++\Proyecto\cajero\cajero\cajero.cpp(336,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\danie\OneDrive\Escritorio\IDDS\Desarrollo de Logica de Programación\Proyectos C++\Proyecto\cajero\cajero\cajero.cpp(34,7): warning C4101: 'c': variable local sin referencia
+  cajero.vcxproj -> C:\Users\danie\OneDrive\Escritorio\IDDS\Desarrollo de Logica de Programación\Proyectos C++\Proyecto\cajero\x64\Debug\cajero.exe
